@@ -19,7 +19,8 @@ Take off, Measurement and Estimation of an upmarket cottage residential structur
 This project involved the creation of a detailed material schedule for a cottage construction using PlanSwift, a software tool for estimating and material takeoff. The project focuses on key construction elements such as brickwork, foundation, superstructure, and sundries, with a total project cost of $9,829.88. The material schedule was used to analyze quantities and costs, aiding in decision-making and project planning.
 
 # Tools
-The project was poduced using PlanSwift 10
+The project was produced using PlanSwift 10.
+
 The data from PlanSwift was integrated to Excel
 
 # Project Steps
