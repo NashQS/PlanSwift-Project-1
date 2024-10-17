@@ -15,6 +15,9 @@ Take off, Measurement and Estimation of an upmarket cottage residential structur
 ### PLANSWIFT FILE
 ![PLANSWIFT](https://github.com/user-attachments/assets/c7c812d0-fb20-4965-9479-5f0ce12efd9f)
 ---
+### MATERIAL SCHEDULE(COST ESTIMATES)
+![MATERIAL SCHEDULE](https://github.com/user-attachments/assets/81aa42dd-19e3-47d1-a8e6-a13a3f096572)
+---
 ### MATERIAL COST ANALYSIS EXCEL PIVOT TABLE
 ![PIVOT TABLE - MATERIAL COST ANALYSIS](https://github.com/user-attachments/assets/ead6d280-cc77-421c-b5c8-608cba7251be)
 --- 
